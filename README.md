@@ -5,7 +5,7 @@
 
 ---
 <!---LeetCode Topics Start-->
-## LeetCode Topics
+# Topics
 ## Array
 |  |
 | ------- |
