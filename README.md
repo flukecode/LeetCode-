@@ -1,4 +1,9 @@
+# LeetCode 
 
+### 📊 Progress Summary
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/?username=KantaphonLoveLeetCode&theme=dark)
+
+---
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
