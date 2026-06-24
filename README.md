@@ -1,4 +1,4 @@
-# LeetCode 
+<h2 align="center">LeetCode</h2> 
 ‎ 
 ‎
 ‎
