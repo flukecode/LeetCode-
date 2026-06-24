@@ -1,16 +1,16 @@
 name: Sync LeetCode
 
 on:
-  workflow_dispatch: # มึงสามารถมากดสั่งให้มันซิงค์เองเมื่อไหร่ก็ได้
+  workflow_dispatch: 
   schedule:
-    - cron: '0 0 * * *' # บอทจะวิ่งออโต้ให้มึงทุกเที่ยงคืนของทุกวัน
+    - cron: '0 0 * * *' # 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Sync
-        uses: joshcai/leetcode-sync@v1.7.0
+        uses: joshcai/leetcode-sync@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
