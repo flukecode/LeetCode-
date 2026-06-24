@@ -19,3 +19,7 @@
 <p align="center">
   <img src="https://github-readme-leetcode.vercel.app/api?username=KantaphonLoveLeetCode&bg_color=0d0d0d&title_color=ffa116&icon_color=ffa116&text_color=ffffff&border_color=ffa116" alt="LeetCode Stats" />
 </p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/KantaphonLoveLeetCode?theme=dark&font=Segoe+UI&ext=activity" alt="LeetCode Stats" />
+</p>
